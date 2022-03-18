@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WorkaholicL1301
+- 👋 Hi, I’m Lohveena
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning HTML 5, CSS & Javascript
+- 🌱 I have completed HTML 5, CSS & Javascript courses
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 Connect with me on LinkedIn (linkedin.com/in/l-shivas1301)
 
